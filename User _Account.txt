@@ -1,0 +1,15 @@
+username: redrobin
+password: bluebeetle
+role: user
+
+username: red
+password: baron
+role: Administrator
+
+username: green
+password: garden
+role: Content Creator
+
+username: pitch
+password: black
+role: Subscriber

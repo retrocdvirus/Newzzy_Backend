@@ -1,0 +1,36 @@
+[
+    {
+        "title": "The decreasing popularity of HDD",
+        "author": "Nguyen Duy Quang",
+        "text": "Hdd is losing its place as the go to hardware storage medium in the face of the advancing SSD disk Hdd is losing its place as the go to hardware storage medium in the face of the advancing SSD disk Hdd is losing its place as the go to hardware storage medium in the face of the advancing SSD disk",
+        "articleCites": ["http://blahblahblah.com"],
+        "comments":[
+            {
+                "userId": "enter id here",
+                "commentText": "it was going to happen eventually",
+                "commentLikes": []
+            }
+        ],
+        "articleStatus": "Approved",
+        "articleColor": "Green"
+        
+    },
+    {
+        "title": "China's Real estate bubble close to explosion",
+        "author": "Lee Enfield",
+        "text": "After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande",
+        "articleCites": ["http://blahblahblahblah.com", "http://www.gondola.com"],
+        "articleStatus": "Rejected",
+        "articleColor": "Yellow"
+    },
+    {
+        "title": "The rise of the open source movement",
+        "author": "Open Revolutionary",
+        "text": "After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande",
+        "articleCites": ["http://blahblahblahblah.com", "http://www.gondola.com"],
+        "articleStatus": "Not Reviewed",
+        "articleColor": "White"
+    }
+  
+  
+]

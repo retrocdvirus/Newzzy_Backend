@@ -1,0 +1,18 @@
+[
+    {
+        "userId": 4,
+        "articleId": 1,
+        "Text": "i personally still prefer the HDD, so much more cost efficient"
+    },
+    {
+        "userId": 2,
+        "articleId": 2,
+        "Text": "It's about damn time"
+    },
+    {
+        "userId": 3,
+        "articleId": 2,
+        "Text": "We all knew this was comming"
+    }
+    
+]

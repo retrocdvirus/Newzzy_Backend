@@ -1,0 +1,40 @@
+[
+    {
+        "articleId": 1,
+        "Title": "The decreasing popularity of HDD",
+        "Author": "Nguyen Duy Quang",
+        "Text": "Hdd is losing its place as the go to hardware storage medium in the face of the advancing SSD disk",
+        "Likes": [],
+        "Comments": [
+            {
+                "userId": 4,
+                "Text": "i personally still prefer the HDD, so much more cost efficient",
+                "Likes": []
+            }
+            
+        ],
+        "Cites": ["http://blahblahblah.com"]
+    },
+    {
+        "articleId": 2,
+        "Title": "China's Real estate bubble close to explosion",
+        "Author": "Lee Enfield",
+        "Text": "After decades of speculation, and over leveraging the real estate bubble in china is popping with the fall of Evergrande",
+        "Likes": [],
+        "Comments": [
+            {
+                "userId": 2,
+                "Text": "It's about damn time",
+                "Likes": []
+            },
+            {
+                "userId": 3,
+                "Text": "We all knew this was comming",
+                "Likes": []
+            }
+            
+        ],
+        "Cites": ["http://blahblahblahblah.com", "http://www.gondola.com"]
+    }
+  
+]

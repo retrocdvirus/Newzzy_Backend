@@ -1,0 +1,59 @@
+[
+    {
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "role": "User",
+      "userStatus": "Active"
+    },
+    {
+      "firstName": "racks",
+      "lastName": "jacson",
+      "phoneNumber": "123456",
+      "emailAddress": "racks.jacson@learningcontainer.com",
+      "role": "User",
+      "userStatus": "Active"
+    },
+    {
+      "firstName": "denial",
+      "lastName": "roast",
+      "phoneNumber": "33333333",
+      "emailAddress": "denial.roast@learningcontainer.com",
+      "role": "Content Creator",
+      "userStatus": "Active"
+    },
+    {
+      "firstName": "devid",
+      "lastName": "neo",
+      "phoneNumber": "222222222",
+      "emailAddress": "devid.neo@learningcontainer.com",
+      "role": "Content Creator",
+      "userStatus": "Active"
+    },
+    {
+      "firstName": "steve",
+      "lastName": "jobs",
+      "phoneNumber": "111111111",
+      "emailAddress": "steve.jobs@learningcontainer.com",
+      "role": "Administrator",
+      "userStatus": "Inactive"
+    },
+    {
+      "firstName": "task",
+      "lastName": "mazer",
+      "phoneNumber": "524624234",
+      "emailAddress": "mazer.task@learningcontainer.com",
+      "role": "User",
+      "userStatus": "Inactive"
+    },
+    {
+      "firstName": "Jonah",
+      "lastName": "Tetch",
+      "phoneNumber": "67867856745",
+      "emailAddress": "Jonah.Tetch@learningcontainer.com",
+      "role": "Content Creator",
+      "userStatus": "Inactive"
+    }
+  
+]
